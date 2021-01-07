@@ -1,0 +1,13 @@
+bicseq_install/
+chunks/
+cluster_logs/
+env/
+resources/
+samtools/
+pog_libs.yaml
+samtools-0.1.7a_getUnique-0.1.3.tar.gz
+logs_slurm/
+nohup.out
+Snakefile~
+.snakemake/
+.git/
